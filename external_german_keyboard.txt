@@ -1,0 +1,5 @@
+[] right Alt+5, right Alt+6
+@ left or right Alt + L
+\ left Alt + left Shift + 7
+| left Alt + 7 or right Alt+7
+{} left (or right) Alt +8 and 9

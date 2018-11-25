@@ -1,0 +1,15 @@
+.DS_Store
+.ipynb_checkpoints
+week_01/notebooks/.ipynb_checkpoints
+week_02/notebooks/.ipynb_checkpoints
+week_03/notebooks/.ipynb_checkpoints
+week_03/notebooks/*.csv
+week_04/notebooks/.ipynb_checkpoints
+.git
+*~
+week_01/videos
+week_02/videos
+week_03/videos
+week_04/videos
+
+course_materials
